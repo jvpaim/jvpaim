@@ -1,7 +1,7 @@
 # Olá! Sou o João Victor
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvpaim&show_icons=true&theme=dracula" alt="Jvpaim GitHub stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvpaim&show_icons=true&theme=white" alt="Jvpaim GitHub stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvpaim&layout=compact" alt="Top Langs">
 </div>
 
